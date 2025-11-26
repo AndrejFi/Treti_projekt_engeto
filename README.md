@@ -18,6 +18,7 @@ Příklad spuštění
 python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" vysledky_prostejov.csv
 Výsledkem spuštění je stáhnutí souboru vysledky_prostejov.csv
 
+
 Průběh stahování
 Kontrola vstupních parametrů - OK
 Načtení obcí - OK
