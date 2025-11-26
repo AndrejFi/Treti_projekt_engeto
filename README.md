@@ -25,18 +25,10 @@ Načtení obcí - OK
 Přehled kandidujících stran - OK
 Data za jednotlivé obce - OK
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/204004e2-a30f-4fa9-ab14-d7db296b9f19" />
 
-Částečný výstup csv výstup![Uploading image.png…]()
+Částečný výstup csv výstup
+<img width="1070" height="304" alt="Snímek obrazovky (17)" src="https://github.com/user-attachments/assets/faf9d59a-03d1-478e-89e5-b615a705dff2" />
 
+částečný výstup csv v excel podobě
+<img width="1920" height="467" alt="Snímek obrazovky (19)" src="https://github.com/user-attachments/assets/8cd30434-3c85-4569-8f0c-649c183a0bcd" />
 
-code	location	registered	envelopes	valid	Občanská demokratická strana 
-506761	Alojzov	205	145	144	29
-589268	Bedihošť	834	527	524	51
-589276	Bílovice-Lutotín	431	279	275	13 
-589284	Biskupice	238	132	131	14 
-589292	Bohuslavice	376	236	236	20 
-589306	Bousín	107	67	67	5 
-589314	Brodek u Konice	695	460	460	25 
-589322	Brodek u Prostějova	1224	656	655	54
-589331	Březsko	178	111	111	9
