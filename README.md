@@ -28,6 +28,7 @@ Data za jednotlivé obce - OK
 Částečný výstup csv výstup
 
 code	location	registered	envelopes	valid	Občanská demokratická strana
+
 506761	Alojzov	205	145	144	29
 589268	Bedihošť	834	527	524	51
 589276	Bílovice-Lutotín	431	279	275	13
