@@ -14,6 +14,7 @@ Pro spuštění main.py použijte následující terminálový příkaz
 2. argument - vysledky_prostejov.csv
 
 Příklad spuštění
+
 python main.py "https://www.volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103" vysledky_prostejov.csv
 Výsledkem spuštění je stáhnutí souboru vysledky_prostejov.csv
 
@@ -24,6 +25,7 @@ Přehled kandidujících stran - OK
 Data za jednotlivé obce - OK
 
 Částečný výstup csv výstup
+
 code	location	registered	envelopes	valid	Občanská demokratická strana
 506761	Alojzov	205	145	144	29
 589268	Bedihošť	834	527	524	51
